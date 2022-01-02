@@ -1,3 +1,5 @@
+For more information, please take a look at "assignment 1(1).pdf"
+
 This program is created for Windows only
 
 Library used: glut, glew, glm
