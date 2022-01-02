@@ -1,4 +1,4 @@
-For more information, please take a look at "assignment 1(1).pdf"
+For more information, please take a look at "assignment 2.pdf"
 
 This program is created for Windows only
 
