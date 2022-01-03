@@ -1,3 +1,5 @@
+Video demonstration: https://www.youtube.com/watch?v=DERU_ouZvSU
+
 For more information, please take a look at "assignment 2.pdf"
 
 This program is created for Windows only
